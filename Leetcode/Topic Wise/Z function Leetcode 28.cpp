@@ -12,3 +12,5 @@ public:
             return -1;
     }
 };
+
+//I have also done this question with other approaches like KMP, check it out in leetcode.
