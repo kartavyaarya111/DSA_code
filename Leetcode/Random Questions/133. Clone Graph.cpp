@@ -1,4 +1,5 @@
 //I tried to do the same with the help of set but it does not work keep in mind to use the map
+//Approch: similar to what we are doing in creation of linked list, here note point that if neighbour is not present then put something in neighbour which is NULL in itself.
 
 // /*
 // // Definition for a Node.
